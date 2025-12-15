@@ -134,7 +134,7 @@ A **Streamlit-based web interface** is used to showcase the trained model.
 - Custom CSS-based UI  
 
 ### 🔗 Streamlit Deployment Link:
-(Add your Streamlit Cloud link here)
+(https://wasteimageclassificationcnnmodelgit-zel3zdmqb54uh3lpoktwhk.streamlit.app/)
 
 Run locally:
 ```bash
